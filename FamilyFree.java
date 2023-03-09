@@ -1,0 +1,4 @@
+
+public interface FamilyFree<T> {
+
+}
